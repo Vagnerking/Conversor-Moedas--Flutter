@@ -2,5 +2,4 @@
 
 Projeto de estudos.
 
-Contato: (83) 99163-3000
-Instagram: instagram.com/vagnerking
+Contato: (83) 99163-3000 - Instagram: instagram.com/vagnerking
