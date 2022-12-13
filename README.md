@@ -1,4 +1,4 @@
-# conversor_moedas
+# Conversor de Moedas - Aulas Flutterando.
 
 A new Flutter project.
 
